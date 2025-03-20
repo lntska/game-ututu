@@ -3,26 +3,26 @@ body {
     line-height: 1.8;
     margin: 0;
     padding: 0;
-    color: #4B0082;
-    background-color: #FAF0E6;
+    color: #6A5ACD;
+    background-color: #E6E6FA;
 }
 
 header {
-    background-color: rgba(255, 223, 186, 0.4);
+    background-color: rgba(221, 160, 221, 0.4);
     padding: 25px;
     text-align: center;
-    border-bottom: 5px solid #8B0000;
+    border-bottom: 5px solid #9370DB;
 }
 
 section {
     padding: 25px;
     margin: 25px;
-    background-color: rgba(255, 223, 186, 0.4);
-    border: 5px solid #8B0000;
+    background-color: rgba(221, 160, 221, 0.4);
+    border: 5px solid #9370DB;
 }
 
 h1, h2, h3 {
-    color: #8B0000;
+    color: #9370DB;
     text-transform: uppercase;
     letter-spacing: 3px;
 }
@@ -35,36 +35,36 @@ ul {
 li {
     margin-bottom: 12px;
     padding: 12px;
-    border: 3px solid #8B0000;
-    background-color: rgba(139, 0, 0, 0.1);
+    border: 3px solid #9370DB;
+    background-color: rgba(147, 112, 219, 0.1);
 }
 
 form {
     display: flex;
     flex-direction: column;
-    background-color:  rgba(255, 223, 186, 0.4);
+    background-color: rgba(221, 160, 221, 0.4);
     padding: 25px;
-    border: 5px solid #8B0000;
+    border: 5px solid #9370DB;
 }
 
 label {
     margin-bottom: 6px;
-    color: #8B0000;
+    color: #9370DB;
 }
 
 input, textarea {
     margin-bottom: 12px;
     padding: 12px;
-    border: 3px solid #8B0000;
+    border: 3px solid #9370DB;
     border-radius: 5px;
-    background-color: #FAF0E6;
-    color: #4B0082;
+    background-color: #E6E6FA;
+    color: #6A5ACD;
     font-family: 'Arial', sans-serif;
 }
 
 button {
     padding: 12px;
-    background-color: #4B0082;
+    background-color: #6A5ACD;
     color: #FFFFFF;
     border: none;
     font-family: 'Arial', sans-serif;
@@ -75,21 +75,21 @@ button {
 }
 
 button:hover {
-    background-color: #8B0000;
+    background-color: #9370DB;
     transform: scale(1.08);
 }
 
 footer {
-    background-color:  rgba(255, 223, 186, 0.4);
+    background-color: rgba(221, 160, 221, 0.4);
     text-align: center;
     padding: 12px;
     width: 100%;
     bottom: 0;
-    border-top: 5px solid #8B0000;
+    border-top: 5px solid #9370DB;
 }
 
 a {
-    color: #4B0082;
+    color: #6A5ACD;
     text-decoration: none;
 }
 
