@@ -1,7 +1,7 @@
 {
-  "name": "Rabid Touch",
-  "short_name": "Rabid Touch",
-  "id": "com.example.gamename",
+  "name": "Arkanoid",
+  "short_name": "Arkanoid",
+  "id": "xxx.xxx.garkanoid",
   "description": "",
   "orientation": "portrait",
   "start_url": "./index.html",
